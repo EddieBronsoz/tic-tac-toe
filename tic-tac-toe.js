@@ -55,7 +55,7 @@ function sixth() {
    circle.setAttribute("cx", "245")
    circle.setAttribute("cy", "145")
    circle.setAttribute("r", "40")
-   circle.setAttribute("fill", "black")
+   circle.setAttribute("fill", "white")
    canvas.appendChild(circle)
 }
 
